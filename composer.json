@@ -1,9 +1,9 @@
 {
-    "name": "dkd/php-cmis",
+    "name": "masl/php-cmis",
     "type": "library",
     "description": "PHP CMIS client library based on CMIS 1.1",
     "keywords": ["cmis"],
-    "homepage": "https://phabricator.dkd.de/diffusion/PHPCMIS/",
+    "homepage": "",
     "license": "Apache-2.0",
     "authors": [
         {
